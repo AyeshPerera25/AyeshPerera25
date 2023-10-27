@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AyeshPerera25) ![Github](https://img.shields.io/github/followers/AyeshPerera25?label=Follow&style=social)
 
 💡 &nbsp; I'm always interested in trying out new technology and learning new things.\
-🎓👨🏽‍🎓 &nbsp; I'm an undergraduate at the Electrical Engineering Department, University of Moratuwa.\
+🎓👨🏽‍🎓 &nbsp; I'm a graduate of the Electrical Engineering Department, University of Moratuwa.\
 🧑🏽‍💻 &nbsp; I'm working as a backend software developer.\
 📸 &nbsp; Photography is my passion and I'm interested in, \
 &nbsp;&nbsp;&nbsp;- 🐾 Wild Life Photography.\
